@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mariol03
+- 👀 I’m interested in linux configuration.
